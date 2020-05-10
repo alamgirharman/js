@@ -1,4 +1,4 @@
-// Variable
+// ******* Variable *******
 // Storing data
 
 var name = 'HM Nayem';
@@ -13,11 +13,10 @@ console.log(name + ' is creating a JavaScript Course for all');
 console.log('But his age is only ' + age);
 
 
-// **********************
-// Reserved word
+// ******* Reserved word *******
+
 /* 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
-
 */
 
 // case/ lowerCamelCase/ CamelCase
